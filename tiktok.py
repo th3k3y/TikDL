@@ -21,7 +21,7 @@ def download_videos():
         return "Error: Maximum of 50 URLs allowed."
 
     headers = {
-        "X-RapidAPI-Key": "e98cd2c8c5mshc82b094f1f95539p1a1350jsna10154fd8164",
+        "X-RapidAPI-Key": "votre clé API",
         "X-RapidAPI-Host": "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com"
     }
 
