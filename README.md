@@ -2,7 +2,6 @@
 
 ![ezgif-5-2171224327](https://github.com/th3k3y/TikDL/assets/49789253/091bf92e-edac-4262-b89e-1cb6704d7a8d)
 
-Téléchargeur de Vidéos TikTok
 
 ## Description
 
