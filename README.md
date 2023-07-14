@@ -14,11 +14,11 @@ Ceci est un projet de démonstration qui illustre comment créer un télécharge
 
 2. Clonez cette repo' :
     ```
-    git clone <[url du dépôt](https://github.com/th3k3y/TikDL/)>
+    git clone https://github.com/th3k3y/TikDL/
     ```
 3. Naviguez vers le répertoire du projet :
     ```
-    cd <TikDL>
+    cd TikDL
     ```
 4. Installez les dépendances :
     ```
